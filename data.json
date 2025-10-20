@@ -1,68 +1,47 @@
 {
-  "fileData": {
+  "files": {
     "transport": {
       "lecture": [
         {
-          "id": 1760939364987,
-          "filename": "210 change rÉÅid-1760939364964-643850791.pdf",
-          "originalname": "210 change rÉÅid.pdf",
-          "path": "uploads\\210 change rÉÅid-1760939364964-643850791.pdf",
+          "id": "1760939364987",
+          "filename": "210-change-rashid-1760939364964-643850791.pdf",
+          "originalname": "210 change rashid.pdf",
+          "path": "uploads/210-change-rashid-1760939364964-643850791.pdf",
           "size": 243263,
           "type": "pdf",
           "uploadedAt": "2025-10-20T05:49:24.987Z",
-          "downloadUrl": "/uploads/210 change rÉÅid-1760939364964-643850791.pdf"
+          "downloadUrl": "/uploads/210-change-rashid-1760939364964-643850791.pdf",
+          "subject": "transport",
+          "module": "lecture"
+        },
+        {
+          "id": "1760944299146",
+          "filename": "210 change rid-1760944299110-644399984.pdf",
+          "originalname": "210 change rÉÅid.pdf",
+          "path": "E:\\Kollec\\backend\\uploads\\210 change rid-1760944299110-644399984.pdf",
+          "uploadedAt": "2025-10-20T07:11:39.146Z",
+          "downloadUrl": "/uploads/210 change rid-1760944299110-644399984.pdf",
+          "type": "pdf",
+          "size": 243263,
+          "subject": "transport",
+          "module": "lecture"
+        },
+        {
+          "id": "1760944794935",
+          "filename": "ali-riyaziyyat-mhazir-1760944794894-175062798.pdf",
+          "originalname": "ali-riyaziyyat-mÃ¼hazirÉ.pdf",
+          "path": "E:\\Kollec\\backend\\uploads\\ali-riyaziyyat-mhazir-1760944794894-175062798.pdf",
+          "uploadedAt": "2025-10-20T07:19:54.935Z",
+          "downloadUrl": "/uploads/ali-riyaziyyat-mhazir-1760944794894-175062798.pdf",
+          "type": "pdf",
+          "size": 1175975,
+          "subject": "transport",
+          "module": "lecture"
         }
-      ],
-      "colloquium": [],
-      "seminar": []
-    },
-    "computer": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "math": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "economics": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "azerbaijani": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "english": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "physical": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "pedagogy": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "agriculture": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
-    },
-    "history": {
-      "lecture": [],
-      "colloquium": [],
-      "seminar": []
+      ]
     }
   },
-  "teacherCredentials": {
+  "teachers": {
     "Nəqliyyat": {
       "password": "pass1234",
       "subject": "transport"
@@ -104,7 +83,7 @@
       "subject": "history"
     }
   },
-  "moduleCredentials": {
+  "modules": {
     "transport": {
       "username": "neqliyyat",
       "password": "pass1234"
