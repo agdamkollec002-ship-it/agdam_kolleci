@@ -1,0 +1,149 @@
+{
+  "fileData": {
+    "transport": {
+      "lecture": [
+        {
+          "id": 1760939364987,
+          "filename": "210 change rÉÅid-1760939364964-643850791.pdf",
+          "originalname": "210 change rÉÅid.pdf",
+          "path": "uploads\\210 change rÉÅid-1760939364964-643850791.pdf",
+          "size": 243263,
+          "type": "pdf",
+          "uploadedAt": "2025-10-20T05:49:24.987Z",
+          "downloadUrl": "/uploads/210 change rÉÅid-1760939364964-643850791.pdf"
+        }
+      ],
+      "colloquium": [],
+      "seminar": []
+    },
+    "computer": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "math": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "economics": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "azerbaijani": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "english": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "physical": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "pedagogy": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "agriculture": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    },
+    "history": {
+      "lecture": [],
+      "colloquium": [],
+      "seminar": []
+    }
+  },
+  "teacherCredentials": {
+    "Nəqliyyat": {
+      "password": "pass1234",
+      "subject": "transport"
+    },
+    "Kompyuter sistemləri": {
+      "password": "pass1234",
+      "subject": "computer"
+    },
+    "Riyaziyyat": {
+      "password": "pass1234",
+      "subject": "math"
+    },
+    "İqtisadiyyat": {
+      "password": "pass1234",
+      "subject": "economics"
+    },
+    "Azərbaycan dili": {
+      "password": "pass1234",
+      "subject": "azerbaijani"
+    },
+    "İngilis dili": {
+      "password": "pass1234",
+      "subject": "english"
+    },
+    "Fiziki tərbiyə": {
+      "password": "pass1234",
+      "subject": "physical"
+    },
+    "Pedaqogika": {
+      "password": "pass1234",
+      "subject": "pedagogy"
+    },
+    "Kənd təsərrüfatı": {
+      "password": "pass1234",
+      "subject": "agriculture"
+    },
+    "Tarix": {
+      "password": "pass1234",
+      "subject": "history"
+    }
+  },
+  "moduleCredentials": {
+    "transport": {
+      "username": "neqliyyat",
+      "password": "pass1234"
+    },
+    "computer": {
+      "username": "kompyuter",
+      "password": "pass1234"
+    },
+    "math": {
+      "username": "riyaziyyat",
+      "password": "pass1234"
+    },
+    "economics": {
+      "username": "iqtisadiyyat",
+      "password": "pass1234"
+    },
+    "azerbaijani": {
+      "username": "azdili",
+      "password": "pass1234"
+    },
+    "english": {
+      "username": "ingilisdili",
+      "password": "pass1234"
+    },
+    "physical": {
+      "username": "fiziki",
+      "password": "pass1234"
+    },
+    "pedagogy": {
+      "username": "pedagogiya",
+      "password": "pass1234"
+    },
+    "agriculture": {
+      "username": "kend",
+      "password": "pass1234"
+    },
+    "history": {
+      "username": "tarix",
+      "password": "pass1234"
+    }
+  }
+}
